@@ -8,5 +8,5 @@ import qrcode
 img = qrcode.make("Url da pagina")
 #refere-se ao tipo de imagem criada e o endereço da pagina propriamente dita#
 
-img.save("nome da pagina.jpg")
+img.save("nome do arquivo.jpg")
 #Nome de como o arquivo de imagem gerado, será salvo# 
